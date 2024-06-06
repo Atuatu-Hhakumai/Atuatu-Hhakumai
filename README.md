@@ -1,7 +1,8 @@
 # Atuatu_Hhakumai  
 ## About Me
 Webサイトに興味があります！   
-専門的なことは全く分かりません！
+専門的なことは全く分かりません！  
+WebGLを勉強してみたいですがなかなか手を出せていません！
 ## Link  
 #### Twitter : <https://x.com/Atuatu_Hhakumai>
 #### Instagram : <https://www.instagram.com/atuatu.hhakumai/>
