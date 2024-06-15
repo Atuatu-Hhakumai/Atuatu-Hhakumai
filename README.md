@@ -3,7 +3,8 @@
 ## About Me
 Webサイトに興味があります！   
 専門的なことは全く分かりません！  
-WebGLに興味があります！
+WebGLに興味があります！  
+ここに上げるコードは基本プライベートリポジトリです！
 
 ## Link  
 #### Twitter : <a href="https://x.com/Atuatu_Hhakumai" target="_blank">@Atuatu_Hhakumai</a>
