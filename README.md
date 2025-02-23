@@ -2,6 +2,7 @@
 
 ## 🍚About Me
 HOT RICE born in Japan.  
+I'm a backward compatible programmer　　
   
 ## 🔗Link
 **Twitter(X)[@Atuatu_Hhakusai](https://twitter.com/Atuatu_Hhakusai)**  
