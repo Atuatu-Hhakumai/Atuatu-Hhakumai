@@ -1,9 +1,9 @@
 # Atuatu_Hhakumai  
 
-## 🍚｜About Me
+**🍚About Me**
 HOT RICE born in Japan.
 
-## 🔗｜Link  
+**🔗Link**
 Twitter(X)[@Atuatu_Hhakusai](https://twitter.com/Atuatu_Hhakusai)
 Instagram[@Atuatu-Hhakumai](https://www.instagram.com/atuatu.hhakumai/)
 WebSite[AtuatuHhakumai.github.io](https://www.atuatu-hhakumai.github.io)
